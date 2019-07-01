@@ -1,0 +1,4 @@
+#Mon Jun 24 13:06:19 IST 2019
+base.0=D\:\\Project\\bmi_calculator\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
